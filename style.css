@@ -1,0 +1,12 @@
+.header {
+font-size: 70px;
+width: 100%;
+background-color: darkgrey;
+margin: 0;
+font-family: 'Montserrat', sans-serif;
+}
+
+.name_of_faces {
+    font-size: 25px;
+    font-weight: bold;
+}
